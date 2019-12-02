@@ -117,7 +117,7 @@ Escolha a alternativa correta:<br><br>",
 			d: 'Somente a afirmação 3 está correta.<br>',
 			e: 'As afirmações 2, 4 estão corretas.<br>'
 		},
-		correctAnswer: 'b'
+		correctAnswer: 'c'
 	},
 	{
 		question: "12- Através do serviço Dynamic Host Configuration Protocol (DHCP) é possível atribuir dinamicamente as informações de configuração TCP/IP aos computadores clientes da rede. Sendo assim, analise as afirmações a seguir e posteriormente escolha a alternativa correta.<br><br>\n\
@@ -227,7 +227,7 @@ Observe as seguintes opções e escolha aquela relacionada a essa política<br><
 			a: 'Compartilhamento de pasta pública.<br>',
 			b: 'Compartilhamento de Memória RAM.<br>',
 			c: 'Compartilhamento de arquivos padrão.<br>',
-			d: 'Compartilhamento de pasta pública.<br>'
+			d: 'Compartilhamento de memória compartilhada.<br>'
 		},
 		correctAnswer: 'c'
 	},
@@ -574,7 +574,8 @@ IV. Cria arquivos simples ou cadeia de arquivos no sistema Linux:<br><br>",
 		correctAnswer: 'd'
 	},
 	{
-		question: "50- No GNU/Linux, os dispositivos existentes em seu computador são identificados por um arquivo referente a este dispositivo no diretório /dev. Qual a descrição correta para a identificação a seguir?<br><br>",
+		question: "50- No GNU/Linux, os dispositivos existentes em seu computador são identificados por um arquivo referente a este dispositivo no diretório /dev. Qual a descrição correta para a identificação a seguir?<br><br>\n\
+		/dev/sda1<br><br>",
 		answers: {
 			a: 'Primeira partição do primeiro disco rígido IDE.<br>',
 			b: 'Primeiro CD-ROM SCSI.<br>',
@@ -593,7 +594,7 @@ IV. Cria arquivos simples ou cadeia de arquivos no sistema Linux:<br><br>",
 			d: 'hda.<br>',
 			e: 'sda.<br>'
 		},
-		correctAnswer: 'e'
+		correctAnswer: 'd'
 	},
 		{
 		question: "52- No Linux e no prompt de comandos do Windows, para mostrar a lista de arquivos e diretórios presentes na unidade de armazenamento atual, por exemplo, um pen drive, utilizam-se, respectivamente, os comandos<br><br>",
@@ -655,7 +656,7 @@ IV. Cria arquivos simples ou cadeia de arquivos no sistema Linux:<br><br>",
 			d: 'chmod 0766 /home/aluno1/arquivo.txt<br>',
 			e: 'chmod 0157 /home/aluno1/arquivo.txt<br>'
 		},
-		correctAnswer: 'c'
+		correctAnswer: 'a'
 	},
 	{
 		question: "57-  Qual programa do sistema operacional LINUX executa tarefas de modo automático por usuário, em horários pré-determinados?<br><br>",
